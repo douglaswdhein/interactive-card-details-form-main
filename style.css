@@ -291,3 +291,7 @@ form button {
         margin-top: 6rem;
     }
 }
+
+#name {
+    text-transform: uppercase;
+}
